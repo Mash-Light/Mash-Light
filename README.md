@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- Banner personalizado aquí (puedes subir tu imagen/banner y colocar la URL) -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="banner" />
+</p>
 
+<h1 align="center">¡Hola, soy <span style="color:#0078d4;">Favio (Mash-Light)</span>! 👋</h1>
+<p align="center">
+  <b>Senior Software Developer | Ecuador</b><br>
+  <b>Especialista en soluciones escalables y de alto rendimiento</b>
+</p>
+
+---
+
+## Sobre mí
+
+- 👨‍💻 **Rol:** Programador / Desarrollador de software senior  
+- 🌎 **Ubicación:** Ecuador  
+- 🗣️ **Idiomas:** Español (nativo)  
+- 💡 Apasionado por crear productos digitales robustos, escalables y con foco en la experiencia de usuario.
+- 🚀 Enfocado en buenas prácticas, documentación clara y aprendizaje constante.
+- 🤝 Experiencia real liderando y colaborando en equipos multidisciplinarios.
+
+---
+
+## ⚙️ Stack Tecnológico Principal
+
+**Frontend**
+- React 18 + TypeScript
+- React Native (Expo + Expo Router)
+- Zustand, TanStack Query, ShadCN UI, MUI, Tailwind CSS
+- Framer Motion, React.lazy, Suspense, carga diferida
+
+**Backend**
+- NestJS (TypeORM + MySQL)
+- Supabase (auth, storage, RLS, buckets, endpoints)
+- Nodemailer, WhatsBoost (notificaciones)
+- Integración con APIs externas, JWT Auth
+
+**DevOps / Infraestructura**
+- Railway, Render, Vercel
+- Variables de entorno (.env)
+- Despliegue productivo y staging
+
+---
+
+## 🏆 Proyectos Destacados
+
+- 🏦 **App de Giros Internacionales:**  
+  App móvil y backend para transferencias seguras entre países.  
+  _React Native + Expo • NestJS + MySQL • Interfaz fluida y optimizada_
+
+- 🎓 **Plataforma Moodle:**  
+  LMS completo con automatización de accesos y pagos.  
+  _Moodle avanzado • Integración con pasarelas de pago_
+
+- 🛒 **App tipo PedidosYa:**  
+  Arquitectura modular, navegación avanzada y backend seguro.  
+  _Expo Router • Zustand • NestJS + MySQL_
+
+- 💼 **Portafolio con Panel Admin:**  
+  Gestión de proyectos con carga de imágenes y panel moderno.  
+  _Next.js • Supabase • Migración a NestJS_
+
+---
+
+## 🌐 Blog & Portafolio
+
+Visita mi blog y portafolio para explorar mis proyectos y artículos:  
+👉 [https://portafolio-two-dusky.vercel.app/](https://portafolio-two-dusky.vercel.app/)
+
+---
+
+## 🌟 Valores profesionales
+
+- Código limpio, modular y mantenible
+- Enfoque en rendimiento, UX y escalabilidad
+- Documentación clara y entregas profesionales
+- Aprendizaje continuo y adaptación a nuevas tecnologías
+
+---
+
+> “La tecnología bien hecha mejora vidas; el software bien hecho, las transforma.”
+
+<!-- Puedes agregar tus redes sociales aquí con iconos si lo deseas -->
 <!--
-**Mash-Light/Mash-Light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
+  <a href="mailto:tucorreo@dominio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" /></a>
+</p>
 -->
