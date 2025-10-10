@@ -1,6 +1,6 @@
-<!-- Banner personalizado aquí (puedes subir tu imagen/banner y colocar la URL) -->
+<!-- Banner animado personalizado -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="banner" />
+  <img src="https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg" alt="Leon Davila Favio" />
 </p>
 
 <h1 align="center">¡Hola, soy <span style="color:#0078d4;">Favio (Mash-Light)</span>! 👋</h1>
@@ -80,11 +80,3 @@ Visita mi blog y portafolio para explorar mis proyectos y artículos:
 ---
 
 > “La tecnología bien hecha mejora vidas; el software bien hecho, las transforma.”
-
-<!-- Puedes agregar tus redes sociales aquí con iconos si lo deseas -->
-<!--
-<p align="center">
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  <a href="mailto:tucorreo@dominio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" /></a>
-</p>
--->
