@@ -1,13 +1,7 @@
-<!-- Banner animado personalizado -->
-<p align="center">
-  <img src="https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg" alt="Leon Davila Favio" />
-</p>
+# ¡Hola, soy Favio (Mash-Light)! 👋
 
-<h1 align="center">¡Hola, soy <span style="color:#0078d4;">Favio (Mash-Light)</span>! 👋</h1>
-<p align="center">
-  <b>Senior Software Developer | Ecuador</b><br>
-  <b>Especialista en soluciones escalables y de alto rendimiento</b>
-</p>
+**Senior Software Developer | Ecuador**  
+Especialista en soluciones escalables y de alto rendimiento
 
 ---
 
