@@ -7,7 +7,7 @@ Especialista en soluciones escalables y de alto rendimiento
 
 ## Sobre mí
 
-- 👨‍💻 **Rol:** Programador / Desarrollador de software senior  
+- 👨‍💻 **Rol:** Programador / Desarrollador de software
 - 🌎 **Ubicación:** Ecuador  
 - 🗣️ **Idiomas:** Español (nativo)  
 - 💡 Apasionado por crear productos digitales robustos, escalables y con foco en la experiencia de usuario.
