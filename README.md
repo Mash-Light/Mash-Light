@@ -1,6 +1,6 @@
 # ¡Hola, soy Favio (Mash-Light)! 👋
 
-**Senior Software Developer | Ecuador**  
+**Software Developer | Ecuador**  
 Especialista en soluciones escalables y de alto rendimiento
 
 ---
