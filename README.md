@@ -50,7 +50,6 @@ Me especializo en:
 - WhatsApp API (Business Cloud/Evolution/WhatsBoost)
 - Nodemailer + SMTP
 - APIs externas REST + Webhooks
-- n8n para flujos avanzados
 
 ---
 
