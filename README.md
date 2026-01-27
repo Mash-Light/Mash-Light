@@ -1,4 +1,4 @@
-# ¡Hola, soy Favio (Mash-Light)! 👋
+# ¡Hola, soy Favio! 👋
 
 **Software Developer | Ecuador**  
 Especialista en soluciones escalables y de alto rendimiento
