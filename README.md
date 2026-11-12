@@ -1,112 +1,107 @@
-# ¡Hola, soy Favio! 👋
+<!--
+  GitHub profile README
+  Focus: international software engineering opportunities
+-->
 
-**Software Developer | Ecuador**  
-Especialista en soluciones escalables y de alto rendimiento
+<div align="center">
 
----
+# Favio Chispón
 
-## Sobre mí
+### Full-Stack Software Engineer · React · TypeScript · Node.js · PHP
 
-Desarrollador **full-stack** con experiencia real construyendo SaaS multiusuario, apps móviles, sistemas financieros, e-commerce avanzados, automatizaciones, paneles administrativos y arquitecturas seguras basadas en buenas prácticas modernas.
+Building reliable web platforms, SaaS products, financial workflows, and e-commerce solutions.
 
-Me especializo en:
+**Based in Ecuador · Open to remote opportunities worldwide**
 
-- **Arquitectura limpia y escalable**
-- **Seguridad real:** RLS, JWT, hashing, cifrado, validación estricta
-- **Sistemas multi-rol:** admin, operadores, comercios, usuarios finales
-- **Aplicaciones móviles de alto rendimiento**
-- **Integración con pasarelas de pago y servicios externos**
-- **Entregas profesionales, con documentación y código mantenible**
-- **Visión a largo plazo y diseño enfocado en usuario**
+[Portfolio](https://portafolio-two-dusky.vercel.app/) · [GitHub](https://github.com/Mash-Light)
+
+</div>
 
 ---
 
-## ⚙️ Stack Tecnológico Principal
+## About
 
-**Frontend**
-- React 18 + TypeScript
-- Next.js 14 (App Router)
-- React Native (Expo + Expo Router)
-- Zustand, TanStack Query
-- Tailwind CSS, ShadCN UI, MUI
-- Framer Motion, Lazy Loading, Suspense
+I'm a Full-Stack Software Engineer with **around 7 years of professional experience** building and maintaining software for international projects. Through my work with **DevmanExtensions**, a Spain-based software company, I've contributed to solutions for clients in Spain, Colombia, Morocco, France, Argentina, Mexico, and other markets.
 
-**Backend**
-- NestJS (TypeORM, Prisma, MySQL/PostgreSQL)
-- Node.js + Express
-- Supabase (Auth, Storage, RLS, Functions)
-- Python FastAPI (IA y microservicios)
-- Webhooks, Cron jobs, Seguridad JWT + Refresh Tokens
+I work across the full development lifecycle: understanding business requirements, designing application architecture, implementing frontend and backend features, integrating third-party services, testing, troubleshooting production issues, and maintaining existing systems.
 
-**DevOps / Infra**
-- Railway, Render, Vercel, Supabase Hosting
-- Docker (cuando aplica)
-- Cloudflare (DNS, SSL, WAF)
-- Manejo profesional de variables de entorno (.env)
-- Despliegues CI/CD organizados
+I value pragmatic engineering: clear architecture, maintainable code, secure integrations, reliable releases, and software that solves real business problems.
 
-**Integraciones & Automatización**
-- Stripe, MercadoPago, Wompi, PayU
-- WhatsApp API (Business Cloud/Evolution/WhatsBoost)
-- Nodemailer + SMTP
-- APIs externas REST + Webhooks
+## Core technologies
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, React Native, TypeScript, JavaScript, Next.js |
+| Backend | Node.js, NestJS, Express, PHP, Laravel, Python |
+| E-commerce | OpenCart, OCMOD, custom checkout integrations |
+| Data | MySQL, PostgreSQL |
+| APIs & integrations | REST APIs, webhooks, authentication, payment integrations |
+| Engineering | Modular architecture, debugging, testing, automation, CI/CD, Docker |
+| AI & automation | AI-assisted workflows, business process automation, Python tooling |
+
+## Selected engineering work
+
+### FlowyCart — OpenCart checkout ecosystem
+
+A modular checkout solution and administration platform designed for OpenCart stores.
+
+- Developed a Laravel 13 and Livewire backend panel for store configuration, domains, credentials, checkout settings, shipping, and payment methods.
+- Worked on a TypeScript-based checkout frontend and the OpenCart 3 extension/runtime integration.
+- Built packaging and validation workflows for reproducible releases.
+- Implemented a signed-update approach with integrity checks for release artifacts.
+
+**Stack:** Laravel, PHP, Livewire, TypeScript, JavaScript, OpenCart 3, OCMOD.
+
+### International money transfer platform
+
+A multi-part product for international remittances between Colombia and Venezuela, covering the mobile experience, backend services, and administration.
+
+- React Native application for customer registration, transfers, recipient management, payment flows, and transaction history.
+- NestJS backend with authentication, user roles, exchange-rate management, transactions, notifications, and API documentation.
+- React and TypeScript administration panel for users, exchange rates, and operational management.
+- Repository documentation includes integrations for regional payment providers.
+
+**Stack:** React Native, Expo, React, TypeScript, NestJS, Node.js, MySQL, JWT, payment APIs.
+
+### Gym and CrossFit management software
+
+Worked on the frontend modernization of a gym-management platform, with a modular React architecture and an administrative experience for gym operations.
+
+- Dashboard with operational indicators, charts, and activity tables.
+- Domain-oriented modules for workouts (WODs), athletes, benchmarks, scheduling, accounting, and reservations.
+- Reusable UI components, responsive layouts, and a consistent design system.
+
+**Stack:** React, TypeScript, Vite, Material UI, TanStack Query, Zustand.
+
+### E-commerce and custom software
+
+Additional work includes advanced e-commerce experiences, administrative panels, OpenCart extensions, API integrations, automation, and ongoing production support for international projects.
+
+*Some repositories and client projects are private or proprietary. Their source code is not published here; project summaries are provided to describe the engineering work without exposing client assets or confidential implementation details.*
+
+## How I work
+
+- **End-to-end ownership:** from requirements and architecture to implementation, testing, and maintenance.
+- **Maintainability:** modular code, clear boundaries, documentation, and practical engineering decisions.
+- **Production mindset:** debugging, validation, security-conscious integrations, and reliable releases.
+- **Collaboration:** clear communication with distributed teams and international stakeholders.
+- **Continuous improvement:** automation and AI-assisted tools where they add measurable value.
+
+## Languages & collaboration
+
+- Spanish: Native
+- English: Open to working with international teams and continuing to strengthen day-to-day technical communication.
+
+## Contact
+
+- **Portfolio:** [portafolio-two-dusky.vercel.app](https://portafolio-two-dusky.vercel.app/)
+- **GitHub:** [github.com/Mash-Light](https://github.com/Mash-Light)
+- **Location:** Ecuador · Available for remote collaboration
 
 ---
 
-## 🏆 Proyectos SaaS y Sistemas Reales
+<div align="center">
 
-**🔹 Plataforma Bancaria / Fintech – Giros Colombia → Venezuela**
-_Mobile App + Backend + Panel Admin_
-- Sistema completo de giros internacionales con conversión COP ↔ VES ↔ USD
-- Panel y app móvil, backend NestJS + MySQL
-- Pasarelas de pago (Wompi / MercadoPago / PayU)
-- Módulo de comercios, auditoría avanzada, cifrado, KYC, roles, comisiones
-- Notificaciones internas y correos automáticos
-- Tecnologías: React Native, NestJS, MySQL, JWT, Cloudflare, AWS S3
+*I build software with a focus on solving real problems, keeping systems maintainable, and delivering dependable results.*
 
-**🔹 Plataforma Educativa (SaaS) – Gestión de Cursos y Accesos**
-- Integración y personalización avanzada de Moodle 5.0
-- Automatizaciones de suscripción, acceso y credenciales
-- Panel admin (gestión de alumnos, progreso, permisos y contenido)
-- Tecnologías: Moodle 5.0, PHP, MySQL, Render/Hostinger
-
-**🔹 E-Commerce Avanzados**
-- Tiendas online de alta conversión: carrito, checkout, mercadoPago, Stripe, PayPal
-- Panel administrativo modular y SEO técnico optimizado
-- Tecnologías: Next.js, Supabase, NestJS, MySQL
-
-**🔹 Automatizaciones Empresariales (n8n + WhatsApp API)**
-- CRM, Calendario, reservas, validación de clientes y triggers
-- Etiquetado y segmentación avanzada con n8n + WhatsApp/Google Calendar/Webhooks
-
-**🔹 SaaS Multiusuario Full-Stack (Web + Móvil)**
-- Login MFA, roles y permisos, almacenamiento seguro de archivos, notificaciones RT, aislamiento por organización (RLS) y dashboards analíticos
-- Stack: React, React Native, Supabase (RLS), NestJS, PostgreSQL
-
----
-
-## 🌐 Portafolio & Blog
-
-👉 [https://portafolio-two-dusky.vercel.app/](https://portafolio-two-dusky.vercel.app/)
-
----
-
-## 🔒 Enfoque en Seguridad
-
-- RLS (Row Level Security)
-- Hashing y cifrado de datos sensibles
-- Control de roles a nivel de API y BD
-- Auditoría de logs y validaciones estrictas (DTOs, Zod, Pipes)
-- Prevención de fraude en sistemas financieros
-- Configuración profesional de CORS, HTTPS y tokens
-
----
-
-## 🌟 Valores Profesionales
-
-- Código limpio, modular, mantenible
-- Arquitectura pensada para escalar
-- Comunicación clara y profesional
-- Orientación total al resultado del cliente
-
-> “Construyo software que funciona hoy, escala mañana y se mantiene limpio siempre.”
+</div>
