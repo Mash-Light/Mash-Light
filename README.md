@@ -29,7 +29,7 @@ I value pragmatic engineering: clear architecture, maintainable code, secure int
 const favio = {
   role: "Full-Stack Software Engineer",
   experience: "7+ years",
-  base: "Ecuador 🇪🇨 (remote)",
+  base: "Ecuador (remote)",
   markets: ["Spain", "Colombia", "Morocco", "France", "Argentina", "Mexico"],
   focus: ["SaaS", "Fintech", "E-commerce", "Integrations"],
   principles: ["Maintainable", "Tested", "Secure", "Production-ready"],
@@ -101,27 +101,56 @@ Multi-part product: mobile app, backend and admin panel.
 <td width="50%" valign="top">
 
 ### 🏋️ Gym & CrossFit management
-**Operations platform**
+**SaaS platform + mobile app on the App Store**
 
-Frontend modernization with a modular React architecture.
+Full-stack development and ongoing maintenance of a gym-management platform used by real gyms.
 
+- Authentication, roles and permissions, admin modules and business workflows
 - Dashboard with operational indicators, charts and activity tables
-- Modules for WODs, athletes, benchmarks, scheduling, accounting and reservations
-- Reusable components, responsive layouts and a consistent design system
+- Class booking, WODs, athletes, benchmarks, scheduling and accounting
+- Payments with Stripe
 
-`React` `TypeScript` `Vite` `Material UI` `TanStack Query` `Zustand`
+`React` `TypeScript` `NestJS` `Vite` `Material UI` `TanStack Query` `Zustand` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏪 E-commerce & custom software
+### 🏪 Padelpoint
+**High-volume e-commerce store · Spain**
+
+Large padel store with 400K+ orders on the platform, running OpenCart + Journal3 Quick Checkout.
+
+- Migration and new implementation of the store for the Spanish market
+- Checkout and order-management customizations, coupons, forms and validations
+- Payments (cards, PayPal, Apple Pay / Google Pay, Bizum, bank transfer) and NACEX / DHL shipping with pickup points
+- Production fixes: GET filters, version compatibility, Open Graph, reCAPTCHA, Safari/iOS
+
+`OpenCart` `Journal3` `PHP` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Custom e-commerce & integrations
 **Production systems for international clients**
 
 - Advanced storefronts, checkouts and administrative panels
-- OpenCart extensions and API integrations
-- Automation and ongoing production support
+- OpenCart extensions (OCMOD / VQMod) and external API integrations
+- Ongoing production support
 
-`OpenCart` `Next.js` `Stripe` `n8n` `Supabase`
+`Next.js` `NestJS` `Stripe` `Mercado Pago` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education SaaS & automation
+**Moodle, n8n and WhatsApp workflows**
+
+- Moodle customization and automated subscriptions, access and credentials
+- CRM, booking and notification flows with n8n and WhatsApp Business API
+
+`Moodle` `PHP` `n8n` `PostgreSQL`
 
 </td>
 </tr>
